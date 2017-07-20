@@ -1,0 +1,7 @@
+function [current_pos]=current(i,j,a)
+
+current_pos=a(1)*(j-1)+i;
+
+
+end
+
